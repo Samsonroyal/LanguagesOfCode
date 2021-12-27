@@ -1,11 +1,31 @@
-# Languages Of Code
+# <h1 align="center">Languages Of Code</h1>
+
+  
+<p align="center">
+  <strong>Start here, go code anywhere:</strong><br>
+  Showing the diversity of programming languages.
+</p>
+
+<p align="center">
+  <a href="https://github.com/Samsonroyal/LanguagesOfCode/blob/main/LICENSE">
+    <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="React Native is released under the MIT license." />
+  </a>
+  <a href="https://github.com/Samsonroyal/LanguagesOfCode">
+    <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs are highly welcome!" />
+  </a>
+  <a href="https://twitter.com/intent/follow?screen_name=WereSamsonVII">
+    <img src="https://img.shields.io/twitter/follow/WereSamsonVII.svg?label=Follow%20@WereSamsonVII" alt="Follow @WereSamsonVII" />
+  </a>
+</p>
+
+
 ## What is Languages of Code?
 This is a free open-source project with almost every type of programming, scripting and markup language showing/depicting 
 how to write the beginning steps of every coder on this sacred journey of code. The "Hello World"
 
 
 
-## What Language of Code does
+## What Languages of Code does
 It teaches/illustrates a reader how to write the "Hello World" program in whatever programming language is available and they feel like using.
 
 

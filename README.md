@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs are highly welcome!" />
   </a>
   <a href="https://twitter.com/intent/follow?screen_name=SamsonWere_">
-    <img src="https://img.shields.io/twitter/follow/WereSamsonVII.svg?label=Follow%20@SamsonWere_" alt="Follow @SamsonWere_" />
+    <img src="https://img.shields.io/twitter/follow/SamsonWere_.svg?label=Follow%20@SamsonWere_" alt="Follow @SamsonWere_" />
   </a>
 </p>
 
